@@ -1,0 +1,15 @@
+c:\users\icedtea socute\documents\visual studio 2010\Projects\project\project\bin\Debug\project.exe
+c:\users\icedtea socute\documents\visual studio 2010\Projects\project\project\bin\Debug\project.pdb
+c:\users\icedtea socute\documents\visual studio 2010\Projects\project\project\obj\x86\Debug\project.Main.resources
+c:\users\icedtea socute\documents\visual studio 2010\Projects\project\project\obj\x86\Debug\project.Properties.Resources.resources
+c:\users\icedtea socute\documents\visual studio 2010\Projects\project\project\obj\x86\Debug\project.csproj.GenerateResource.Cache
+c:\users\icedtea socute\documents\visual studio 2010\Projects\project\project\obj\x86\Debug\project.exe
+c:\users\icedtea socute\documents\visual studio 2010\Projects\project\project\obj\x86\Debug\project.pdb
+c:\users\icedtea socute\documents\visual studio 2010\Projects\project\project\obj\x86\Debug\project.Menu.resources
+C:\project\project\obj\x86\Debug\project.exe
+C:\project\project\obj\x86\Debug\project.pdb
+C:\project\project\obj\x86\Debug\project.login.resources
+C:\project\project\obj\x86\Debug\project.Main.resources
+C:\project\project\obj\x86\Debug\project.Menu.resources
+C:\project\project\obj\x86\Debug\project.Properties.Resources.resources
+C:\project\project\obj\x86\Debug\project.csproj.GenerateResource.Cache
